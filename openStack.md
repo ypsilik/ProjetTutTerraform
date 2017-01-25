@@ -54,3 +54,7 @@ Orchestre de nombreuses applications de cloud composites en utilisant soit le fo
 ### Ceilometer, le service de métrologie
 Surveille et mesure un cloud OpenStack dans un but de facturation, de mesure de performances, de scalabilité et de statistiques.
 
+# Liens
+- http://docs.openstack.org
+- members.loria.fr/LNussbaum/ptasrall2017/rapport_g_openstack2014.pdfttps://en.wikipedia.org/wiki/OpenStack
+- 
